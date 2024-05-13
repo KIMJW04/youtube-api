@@ -17,9 +17,25 @@
 - React Helmet Async: `npm install react-helmet-async`로 설치합니다. (SEO를 위한 라이브러리)
 - Swiper: `npm install swiper`로 설치합니다. (이미지 슬라이드를 위한 라이브러리)
 
+## 단축키
+- rafc
+>import React from 'react'
+>
+>const Home = () => {
+>    return (
+>        <div>Home</div>
+>    )
+>}
+>
+>export default Home
+
+## 리엑트 문법
+- `import 이름 from '경로'` : 리엑트에서 컴포넌트를 다른 파일에서 불러와서 사용할 때 `import` 문법을 사용
+
 ## 사용 기술 스택
 - Node.js: 서버를 구축하고 API 요청을 처리합니다.
 - React: 사용자 인터페이스를 구현합니다.
 - React Router DOM: 페이지 간의 라우팅 및 주소 설정을 관리합니다.
 
 ## 트러블 슈팅
+
