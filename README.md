@@ -17,7 +17,7 @@
 - React Helmet Async: `npm install react-helmet-async`로 설치합니다. (SEO를 위한 라이브러리)
 - Swiper: `npm install swiper`로 설치합니다. (이미지 슬라이드를 위한 라이브러리)
 
-````
+````bash
 npm install react-router-dom axios react-icons react-player sass react-helmet-async swiper
 ````
 
