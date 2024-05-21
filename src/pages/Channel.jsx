@@ -1,9 +1,11 @@
 import React from 'react'
 
-const Home = () => {
+const Channel = () => {
     return (
-        <div>Channel</div>
+        <div>
+
+        </div>
     )
 }
 
-export default Home
+export default Channel

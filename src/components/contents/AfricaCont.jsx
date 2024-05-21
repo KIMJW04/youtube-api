@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Video = () => {
+const AfricaCont = () => {
     return (
         <div>
-            Video
+            AfricaCont
         </div>
     )
 }
 
-export default Video
+export default AfricaCont

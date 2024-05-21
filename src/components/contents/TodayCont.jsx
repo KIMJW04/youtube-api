@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Video = () => {
+const TodayCont = () => {
     return (
         <div>
-            Video
+            TodayCont
         </div>
     )
 }
 
-export default Video
+export default TodayCont

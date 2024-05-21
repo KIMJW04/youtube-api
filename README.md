@@ -7,6 +7,8 @@
 1. Node.js 설치 및 버전 확인
 2. 폴더 구조 설정: 필요 없는 파일 삭제하고 초기 설정 파일 추가
 
+7. 각 페이지 메타 태그 설정 (HelmetProvider)
+
 ## 필요한 라이브러리 설치
 - React: `npx create-react-app 폴더이름`으로 설치합니다. (폴더 이름을 생략하면 현재 폴더에 생성됩니다.)
 - React Router DOM: `npm install react-router-dom`으로 설치합니다. (페이지 간의 라우팅 및 주소 설정을 위한 라이브러리)
@@ -17,12 +19,8 @@
 - React Helmet Async: `npm install react-helmet-async`로 설치합니다. (SEO를 위한 라이브러리)
 - Swiper: `npm install swiper`로 설치합니다. (이미지 슬라이드를 위한 라이브러리)
 
-````bash
-npm install react-router-dom axios react-icons react-player sass react-helmet-async swiper
-````
-
 ## 단축키
-- rafc
+- rafce
 >import React from 'react'
 >
 >const Home = () => {

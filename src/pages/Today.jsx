@@ -1,9 +1,12 @@
 import React from 'react'
-
-const Home = () => {
+import Main from '../components/section/Main'
+const Today = () => {
     return (
-        <div>Today</div>
+        <Main
+            title="오늘의 추천 영상"
+            description="오늘의 추천 영상입니다.">Today
+        </Main>
     )
 }
 
-export default Home
+export default Today
